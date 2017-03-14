@@ -1,0 +1,104 @@
+{
+  "posts": [
+    {
+      "id": "172338516139198_473310782708635",
+      "from": {
+        "name": "Mohamed Alaa El Din",
+        "id": "1252478278163674"
+      },
+      "message": "http://livrodesignthinking.com.br/?language=ingles",
+      "caption": "livrodesignthinking.com.br",
+      "description": "Innovating is a hard task and generally frustrating, but it is essential to be unique in the market. Design Thinking deals with traditional business problems under multiple perspectives, helping to solve them in a more effective way, leading to new paths. This book presents stages, techniques and to...",
+      "created_time": "2012-10-18T08:48:43+11:00",
+      "total_likes": 0,
+      "total_comments": 0
+    },
+    {
+      "id": "172338516139198_473323532707360",
+      "from": {
+        "name": "Mohamed Alaa El Din",
+        "id": "1252478278163674"
+      },
+      "message": "have more than 10 tabs open in your browser? This is for you and for Me (30-40 tabs open) :S",
+      "caption": "hanselman.com",
+      "description": "Scott Hanselman on Programming, User Experience, The Zen of Computers and Life in General",
+      "created_time": "2012-10-18T09:44:30+11:00",
+      "total_likes": 0,
+      "total_comments": 0
+    },
+    {
+      "id": "172338516139198_473619279344452",
+      "from": {
+        "name": "Mohammed El Sayed",
+        "id": "10154884040390170"
+      },
+      "message": "My first UserScripts submission.\nhttp://userscripts.org/scripts/show/150410\n--\nit's a script to enhance the experience of the Pluralsight (http://pluralsight.com/training/Courses/NewReleases) Courses list page that will add filter/sort capabilities to it.\n\nPS: you will need to install GreaseMonkey Firefox addon in order to make use of this script, Chrome was supporting it natively, but since V21 they changes the security features so you will need to workaround this first.\nthis link may be handy for Chrome users: http://userscripts.org/topics/115329?page=1#posts-456415",
+      "caption": "userscripts.org",
+      "description": "This script will simply gives you the ability to sort the courses list on the main Pluralsight courses list by any column, or even filter courses according to any criteria you want (Course name, Author, Release month, Level).",
+      "created_time": "2012-10-19T04:02:11+11:00",
+      "total_likes": 3,
+      "total_comments": 2
+    },
+    {
+      "id": "172338516139198_474245032615210",
+      "from": {
+        "name": "Ahmed Magdy",
+        "id": "10154728972235376"
+      },
+      "message": null,
+      "caption": null,
+      "description": null,
+      "created_time": "2012-10-20T19:48:07+11:00",
+      "total_likes": 0,
+      "total_comments": 0
+    },
+    {
+      "id": "172338516139198_474336362606077",
+      "from": {
+        "name": "Adel K. Khalil",
+        "id": "10158375948495584"
+      },
+      "message": "Guys, a 1-3 experience Quality Assurance engineers required for full-time positions also there is opening for Sr. and Jr. Software Engineers (MVC/jQuery/MSSQL08/12) please email me adel.khalil@drbridge.com :) Thanks",
+      "caption": null,
+      "description": null,
+      "created_time": "2012-10-21T01:48:00+11:00",
+      "total_likes": 0,
+      "total_comments": 5
+    },
+    {
+      "id": "172338516139198_474159235957123",
+      "from": {
+        "name": "Mohamed Alaa El Din",
+        "id": "1252478278163674"
+      },
+      "message": "Awesomeeeeeeee :D",
+      "caption": "needim.github.com",
+      "description": "noty is a jquery plugin which is have too many options for display notification",
+      "created_time": "2012-10-20T13:12:13+11:00",
+      "total_likes": 6,
+      "total_comments": 6
+    },
+    {
+      "id": "172338516139198_474586442581069",
+      "from": {
+        "name": "Meligy",
+        "id": "10154884040385170"
+      },
+      "message": "How a scientist writing software just as part of simulations / research handles the bit of testing in software...\n\nHe sounds like he thinks his approach is far from general buzz advice. I think he is quite similar to what many would do in \"real life\" projects, not that it can't be improved. Have a look!",
+      "caption": "ivory.idyll.org",
+      "description": "Automated testing and research softwareThu 18 October 2012ByC. Titus BrownInscience.tags:sciencereplicationAfter yet another round of futile Twittering on the subject of research software, I thought I'd share a deeply personal story -- a story that explains some of my rather adamant stance that most...",
+      "created_time": "2012-10-21T16:40:09+11:00",
+      "total_likes": 1,
+      "total_comments": 0
+    },
+    "{\"id\":\"172338516139198_454908334548880\",\"from\":{\"name\":\"Yasser Makram\",\"id\":\"10154130456916548\"},\"message\":null,\"caption\":null,\"description\":\"هل نظام براءات الاختراع يساعد فعلا على الإبداع؟\\nوضع نظام براءات الاختراع للحفاظ على حقوق المبدعين وتوفير مظلة أمان من السرقة وخاصة لحماية الكيانات الصغيرة من جور الشركات ذات الميزانيات الضخمة واستغلال ميزانياتها في قتل إبداع الصغار بسرقتها وتسويقها بشكل أفضل. ذلك على المستوى النظري.\\nولكن على المستوى العملي أثبت نظام البراءات أنه يسمح بتسجيل أفكار أساسية معطلة لأي شكل من الإبداع ، ولكن الإبداع والتطور مستمر  في مجال البرمجيات فكيف يمكن تفسير ذلك؟\\nببساطة مجال البرمجيات حديث للغاية والتطور فيه مذهل فالشركات الكبيرة يمكنها الالتفاف على هذا النظام باتفاقيات تبادل البراءات مثل الاتفاق القائم بين مايكروسوفت وأبل. أما الأفراد والشركات الصغيرة تفلت بارتفاع تكلفة المقاضاة وحرية النشر خاصة باستخدام الويب.\\nولكن انتشار متاجر التطبيقات والسلطة التي تعطيها للشركات العملاقة قد تغير ذلك. فعملية المراجعة التي تقتصر الآن على بعض شروط الأمان وخطوط عريضة لجودة التطبيق قد تمتد إلى براءات الاختراع المستخدمة في التطبيق.\\nعلى سبيل المثال ميزة أساسية في التطبيقات حاليا مثل استجابة التطبيق لاستدارة الجهاز إذا كانت مسجلة كبراءة لابد من ترخيصها لتستخدم ويمكن منع أي تطبيق لا يرخصها من الدخول على سوق التطبيقات. مثل هذه السياسات غير مفعلة حاليا لأن الأسواق في مرحلة البناء والشركات ترغب في تشجيع الأفراد والشركات لدخول السوق ولكن لا يجد ما يمنع من تفعيل هذه السياسات باتفاق بين افاعلين الأكبر في هذه الأسواق.\\nيبقى الويب كخط دفاع أخير ضد هذه السياسات وهنا تظهر أهمية الوقوف بالمرصاد ضد أي شكل من أشكال الرقابة الحكومية على الويب. هذا ما أرى والله أعلم.\",\"created_time\":\"2012-08-31T05:29:05+10:00\",\"total_likes\":1,\"total_comments\":0}",
+    "{\"id\":\"172338516139198_455320341174346\",\"from\":{\"name\":\"Ramy Said\",\"id\":\"10155924142787586\"},\"message\":null,\"caption\":\"overclocking-tv.com\",\"description\":\"Today is a great day! Not because it is raining during the summer but because we are proud to announce that our factory \",\"created_time\":\"2012-09-01T08:12:09+10:00\",\"total_likes\":1,\"total_comments\":0}",
+    "{\"id\":\"172338516139198_455491621157218\",\"from\":{\"name\":\"Ahmed Magdy\",\"id\":\"10154728972235376\"},\"message\":\"\\\"لم يتم تعيين مرجع كائن لمثيل كائن\\\" ورقصني يا جدع!\",\"caption\":null,\"description\":null,\"created_time\":\"2012-09-01T21:28:01+10:00\",\"total_likes\":2,\"total_comments\":5}",
+    "{\"id\":\"172338516139198_455585681147812\",\"from\":{\"name\":\"Moutaz Shams\",\"id\":\"1647326241951498\"},\"message\":\"قبل ما ترميني في مشاريعك مش كنت تـ comment الكود؟ مش كنت تـ comment الكود؟!\",\"caption\":null,\"description\":null,\"created_time\":\"2012-09-02T02:44:20+10:00\",\"total_likes\":2,\"total_comments\":3}",
+    "{\"id\":\"172338516139198_455794801126900\",\"from\":{\"name\":\"Mai Omar Desouki\",\"id\":\"10212162531809485\"},\"message\":null,\"caption\":\"Kick-off meeting for Sharing The Point in Africa is coming Dubai\",\"description\":\"I am very excited to announce the kick-off meeting for \\\"Share The Point in Africa\\\" event is coming to Dubai... \\n\\nSpeakers:\\nJoel Oleson,\\nMichael Noel,\\nMark Miller,\\nEric Harlan,\\nPaul J. Swider,\\nJohn Anderson.\\n\\n\\nExact Location:\\nIn front of the Dancing Fountain at Dubai Mall.\\n\\nCall: 00971551663033 to find out which exact place we will have dinner but it is around the fountain so you just reach there and call.\\n\\nOnce settled will update the event page here.\",\"created_time\":\"2012-09-02T17:10:03+10:00\",\"total_likes\":0,\"total_comments\":0}",
+    "{\"id\":\"172338516139198_455798794459834\",\"from\":{\"name\":\"Mahmoud Ibrahim\",\"id\":\"10154874374735831\"},\"message\":\"That's good news \\n\",\"caption\":\"mashable.com\",\"description\":\"Anonymous has vowed to revive Demonoid, a popular torrent sharing and tracking platform shut down by authorities last week.\",\"created_time\":\"2012-09-02T17:33:12+10:00\",\"total_likes\":1,\"total_comments\":1}",
+    "{\"id\":\"172338516139198_450163421690038\",\"from\":{\"name\":\"Mohamed Alaa El Din\",\"id\":\"1252478278163674\"},\"message\":\"ok this is out of IT but it's really important if you are living abroad ... \\nmany people if they see you stressed out they will just tell you: \\n\\\"Why you don't do Yoga\\\" and they start explaining how useful it is and how it makes you relax Bla Bla Bla... \\n\\nDON'T DO IT and I will tell you why. Because Simply Yoga is \\\"Buddhist Prayer\\\" i'm not giving a Fatwa here :) but it's useful to know and you can ask a Shikh if you need a Fatwa :)\",\"caption\":null,\"description\":null,\"created_time\":\"2012-08-18T03:18:24+10:00\",\"total_likes\":4,\"total_comments\":4}",
+    "{\"id\":\"172338516139198_456931094346604\",\"from\":{\"name\":\"Mohammed El Sayed\",\"id\":\"10154884040390170\"},\"message\":\"http://venturebeat.com/2012/09/04/estonia-code-academy/\",\"caption\":\"venturebeat.com\",\"description\":\"We're reading today that Estonia is implementing a new education program that will have 100 percent of publicly educated students learning to write code. \",\"created_time\":\"2012-09-05T17:19:47+10:00\",\"total_likes\":0,\"total_comments\":0}",
+    "{\"id\":\"172338516139198_456940001012380\",\"from\":{\"name\":\"Mohammed El Sayed\",\"id\":\"10154884040390170\"},\"message\":\"http://www.ibm.com/smarterplanet/us/en/smarter_computing/article/atomic_scale_memory.html\",\"caption\":\"ibm.com\",\"description\":\"Scientists from IBM Research have created the world’s smallest magnetic memory bit, reducing the number of atoms needed to store one bit of data from one million to 12, vastly increasing storage data density.\",\"created_time\":\"2012-09-05T18:00:25+10:00\",\"total_likes\":0,\"total_comments\":0}"
+  ]
+}

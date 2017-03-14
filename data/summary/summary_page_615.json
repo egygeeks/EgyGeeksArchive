@@ -1,0 +1,130 @@
+{
+  "posts": [
+    {
+      "id": "172338516139198_853722368000806",
+      "from": {
+        "name": "Alaa Attya Mohamed",
+        "id": "10210243495897310"
+      },
+      "message": "a very interesting article for getting started with Jenkins\n\n",
+      "caption": "code.tutsplus.com",
+      "description": "Add a little automation to your life - let's set up a Jenkins instance to handle testing and deploying for us. | Difficulty: Beginner; Length: Medium; Tags: Web Development, Node.js, Web Server, Testing, SSH, Bash, Git, GitHub, DigitalOcean",
+      "created_time": "2014-11-30T09:09:06+11:00",
+      "total_likes": 5,
+      "total_comments": 6
+    },
+    {
+      "id": "172338516139198_854506914589018",
+      "from": {
+        "name": "Mohamed Alaa El Din",
+        "id": "1252478278163674"
+      },
+      "message": null,
+      "caption": "webdesign.tutsplus.com",
+      "description": "Today, we’re going to talk about CSS best practices, specificity and maintainability, plus you’ll learn how to make better use of CSS statistics. Let’s dive in! | Difficulty: Intermediate; Length: Short; Tags: CSS, CSS Architecture, Statistics, Analytics",
+      "created_time": "2014-12-01T23:37:32+11:00",
+      "total_likes": 2,
+      "total_comments": 0
+    },
+    {
+      "id": "172338516139198_854551541251222",
+      "from": {
+        "name": "Ahmed Mozaly",
+        "id": "10154444669171313"
+      },
+      "message": "SVG is the future, nice presentation",
+      "caption": "docs.google.com",
+      "description": null,
+      "created_time": "2014-12-02T01:42:31+11:00",
+      "total_likes": 3,
+      "total_comments": 0
+    },
+    {
+      "id": "172338516139198_854684421237934",
+      "from": {
+        "name": "Essam A. Hassan",
+        "id": "1246324408754353"
+      },
+      "message": "I want to develop a mobile application that connects to a remote mysql database (on laptop) and query it\n\nwhat is the best alternative to do that?",
+      "caption": null,
+      "description": null,
+      "created_time": "2014-12-02T06:03:09+11:00",
+      "total_likes": 1,
+      "total_comments": 8
+    },
+    {
+      "id": "172338516139198_850383308334712",
+      "from": {
+        "name": "Ahmed Raslan",
+        "id": "10158381834070029"
+      },
+      "message": null,
+      "caption": null,
+      "description": "امشى على خطى الـ Agile :)\n\nمن أهم اهداف مدير الشركة أو مدير المشروعات إنه يطور فريقه و يحل مشاكلهم و يخليهم أكثر انتاجية و فيه اساليب كتير الواحد ممكن يتبعها عشان يوصل للهدف دا و واحد من الاساليب دى هو الـ Agile Meeting.\n\n-يعنى ايه Agile Meeting؟\nدا يعنى إنك تعمل إجتماع مع الفريق بتاعك أو موظفين شركتك كل يوم فى نفس الميعاد و بيكون  مدته مش كبيرة اوى. والهدف منه إنك تتابع فريقك و تشوف هما ماشين صح ولا ﻷ وتقدر تدير الفريق بشكل أحسن عشان تحقق الخطة اللى إنت حاططها.\n\nوالـ Agile Meeting بيكون معروف بكذا اسم منهم Daily Stand-Up Meeting و دا عشان معظم الناس بتعمله و هما واقفين.\n\n-ايه فوايد اسلوب الـ Agile Meeting ؟\nفوايده إنه بيخلى الفريق بتاعك Effective. و بيزود الاندماج بين فريقك كله و كمان بيعلم الواحد فى إن الواحد يزود خبرته فى إنه يوصل فكرته فى وقت قليل لإن زى ما قلنا إن الاجتماع مدته مش كبيرة. \n\n-إزاى تدير الـ Agile Meeting؟ \nبتدير الـ Agile Meeting  دا عن طريق إنك تخلى كل واحد يجاوب على الـ3 اسئلة دول:- \n1- ايه اللى خلصته امبارح؟\n2-ايه خطتك بتاعة اليوم؟ \n3- فيه أى مشاكل بتقابلك و إنت شغال إو وإنت بتخلص شغلك؟ \n\nطبعا ممكن تزود وقت فى الميتنج وممكن تزود اسئلة تانية براحتك بس المهم فى الموضوع إنك تجتمع مع الفريق بتاعك عشان تكون عارف هما شغالين ازاى وتعرف ايه المشاكل اللى بتقابلهم و تحلها و هما يحسوا إن الدنيا مفيهاش مشاكل حواليهم و بكدا الإنتاجية بتاعتهم هتزيد.\n\nمين هنا بيعمل أو مديره بيعمل معاهم Agile Meeting؟ \nلو مديرك مبيعملش اجتماع معاك كل يوم اعمله منشن :)",
+      "created_time": "2014-11-24T04:17:19+11:00",
+      "total_likes": 13,
+      "total_comments": 11
+    },
+    {
+      "id": "172338516139198_855120574527652",
+      "from": {
+        "name": "Eslam Hamouda",
+        "id": "10210277573008432"
+      },
+      "message": ".NET Open Source Developer Projects\n- a list of projects that are useful for any aspect of the development process.",
+      "caption": "github.com",
+      "description": "dotnet is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.",
+      "created_time": "2014-12-03T05:21:16+11:00",
+      "total_likes": 14,
+      "total_comments": 0
+    },
+    {
+      "id": "172338516139198_855181954521514",
+      "from": {
+        "name": "Mostafa Abdellatif Elgayar",
+        "id": "10155096840402220"
+      },
+      "message": null,
+      "caption": "www.computerworld.com",
+      "description": "Programming language names are usually pretty formulaic and boring, except when they're not. Here are the inspirations behind some of the more creative ones.",
+      "created_time": "2014-12-03T08:15:23+11:00",
+      "total_likes": 1,
+      "total_comments": 0
+    },
+    {
+      "id": "172338516139198_854700351236341",
+      "from": {
+        "name": "Mouneer Rabie",
+        "id": "10154836563690932"
+      },
+      "message": "someone in the group was trying to meet with software dev teams using agile , lean and the likes. \nI can't find that post. can anyone point me to the post or the person ?",
+      "caption": null,
+      "description": null,
+      "created_time": "2014-12-02T06:58:18+11:00",
+      "total_likes": 3,
+      "total_comments": 8
+    },
+    {
+      "id": "172338516139198_854854527887590",
+      "from": {
+        "name": "Mohamed Alaa El Din",
+        "id": "1252478278163674"
+      },
+      "message": "This article explained to me authoring critical css above the fold for increasing the pagespeed insight ranking. Enjoy it dudes!",
+      "caption": "css-tricks.com",
+      "description": "The following is a guest post by Ben Edwards. I saw Ben tweet about a simple Sass @mixin that allowed you designate bits of CSS as being \"critical\" - the i",
+      "created_time": "2014-12-02T14:19:40+11:00",
+      "total_likes": 2,
+      "total_comments": 3
+    },
+    "{\"id\":\"172338516139198_839083642798012\",\"from\":{\"name\":\"Dody Gunawinata\",\"id\":\"10158298383205487\"},\"message\":\"If you are running Drupal, make sure you review your site \",\"caption\":\"drupal.org\",\"description\":\"Advisory ID: DRUPAL-PSA-2014-003 Project: Drupal core Version: 7.x Date: 2014-October-29 Security risk: 25/25 ( Highly Critical) AC:None/A:None/CI:All/II:All/E:Exploit/TD:All\",\"created_time\":\"2014-11-01T06:48:12+11:00\",\"total_likes\":0,\"total_comments\":0}",
+    "{\"id\":\"172338516139198_838855976154112\",\"from\":{\"name\":\"Ahmed Adel\",\"id\":\"10155949666619129\"},\"message\":\"In past few years, an experiment started by some researchers to track the importance of google in our life, so they asked everyone if they can get rid of google? and if they can .. how long they could switch to another temporarily search engine?\\ncan we remake this user experiment here? then share results ..\",\"caption\":null,\"description\":null,\"created_time\":\"2014-10-31T20:17:15+11:00\",\"total_likes\":1,\"total_comments\":2}",
+    "{\"id\":\"172338516139198_838447366194973\",\"from\":{\"name\":\"Mosab Ibrahim\",\"id\":\"10154868571206047\"},\"message\":\"This is just awesome :)\\n\\nIt is like screen recording for terminal sessions :)\",\"caption\":\"showterm.io\",\"description\":\"Termshows are purely text based. This makes them ideal for demoing instructions (as the user can copy-paste), making fail-safe \\\"live-coding\\\" sessions (plain text is very scalable), and sharing all your l33t terminal hacks.\",\"created_time\":\"2014-10-30T23:08:21+11:00\",\"total_likes\":7,\"total_comments\":3}",
+    "{\"id\":\"172338516139198_838954436144266\",\"from\":{\"name\":\"Mohammad Hefny\",\"id\":\"10158294422125471\"},\"message\":\"http://www.intertech.com/Blog/android-handling-the-unexpected/\",\"caption\":\"intertech.com\",\"description\":\"In all applications, there are those exceptions, those bugs that no one expected.  Try as we might  to think of every conceivable error, exception, or issue, we developers miss some things.  When this happens on a device “out in the wild” – meaning on a device in the hands of the m…\",\"created_time\":\"2014-11-01T01:07:21+11:00\",\"total_likes\":2,\"total_comments\":1}",
+    "{\"id\":\"172338516139198_838371402869236\",\"from\":{\"name\":\"Ahmed Mozaly\",\"id\":\"10154444669171313\"},\"message\":\"npm: to update and install all the nodejs packages\\nbower: to update and install the frontend dependencies\\ncompass: to compile the css\\ncomposer: to install the php dependencies\\n --- and a git hook to fire them all :) ---\",\"caption\":\"gianlucaguarini.com\",\"description\":\"How to sync Git with Compass, npm, bower, composer and whatever other tool… Posted on January 16, 2014 Sometimes is not so easy to work together with other developers on the same project using git, mostly if some files must be compiled/tested/installed by other command line tools ( like bower, npm ……\",\"created_time\":\"2014-10-30T20:24:43+11:00\",\"total_likes\":1,\"total_comments\":1}",
+    "{\"id\":\"172338516139198_839565762749800\",\"from\":{\"name\":\"Mohamed Alaa El Din\",\"id\":\"1252478278163674\"},\"message\":\"How I've Improved My Angular Apps by Banning ng-controller\",\"caption\":\"teropa.info\",\"description\":\"Tero Parviainen, Independent Software Maker\",\"created_time\":\"2014-11-02T05:30:10+11:00\",\"total_likes\":1,\"total_comments\":2}",
+    "{\"id\":\"172338516139198_839653172741059\",\"from\":{\"name\":\"Mohamed Alaa El Din\",\"id\":\"1252478278163674\"},\"message\":\"A new architecture for Rails. \\n\\nRails Experts Ideas? Emad Elsaid Hady Ahmad\",\"caption\":\"github.com\",\"description\":\"trailblazer - A new architecture for Rails.\",\"created_time\":\"2014-11-02T09:37:46+11:00\",\"total_likes\":2,\"total_comments\":0}",
+    "{\"id\":\"172338516139198_839653416074368\",\"from\":{\"name\":\"Mohamed Alaa El Din\",\"id\":\"1252478278163674\"},\"message\":\"Epic! Complete Guide and Refactor!\",\"caption\":\"airpair.com\",\"description\":\"Rails expert Abraham Polishchuk walks through the requirements for building a RESTful API in Rails and points out some common pitfalls.\",\"created_time\":\"2014-11-02T09:38:36+11:00\",\"total_likes\":1,\"total_comments\":0}",
+    "{\"id\":\"172338516139198_839737179399325\",\"from\":{\"name\":\"Hesham Mohamed Eladawy\",\"id\":\"10154309434427452\"},\"message\":\"5 محاضرات قصيرة من داخل غرفة الحرب في شركة MOVE-IT، حيث يكتب المبرمجين اكوادهم، سنتعلم كيف تشم الكود وتميز الكود، كريه الرائحة والكود طيب الرائحة ...\",\"caption\":\"youtube.com\",\"description\":\"محاضرة في كيفية كتابة كود احترافي يساعدك على تطويرة وحل مشاكله بسهولة ويسر\",\"created_time\":\"2014-11-02T14:35:55+11:00\",\"total_likes\":3,\"total_comments\":0}"
+  ]
+}

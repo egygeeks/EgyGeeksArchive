@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": "172338516139198_831296000243443",
+      "from": {
+        "name": "Mostafa Muhammad",
+        "id": "10154873940166210"
+      },
+      "message": "Been looking for a simple validation scheme for URLs in PHP, using filter_var reports URLs with Arabic characters as \"invalid\"\n\nI came across this article which studies several RegEx's and compares them against each other in validating all kinds of urls\n\nI think this is the most useful article about the matter I have seen so far",
+      "caption": "mathiasbynens.be",
+      "description": "To clarify, I’m looking for a decent regular expression to validate URLs that were entered as user input with. I have no interest in parsing a list of URLs from a given string of text (even though some of the regexes on this page are capable of doing that). I also don’t want to allow every possible…",
+      "created_time": "2014-10-16T18:13:27+11:00",
+      "total_likes": 5,
+      "total_comments": 3
+    },
+    "{\"id\":\"172338516139198_813456585360718\",\"from\":{\"name\":\"Ahmed Mozaly\",\"id\":\"10154444669171313\"},\"message\":\"Old but Gold :)\",\"caption\":\"bennadel.com\",\"description\":\"Ben Nadel explains how the prototype chain and inheritance work in Javascript and why it is crucial to always call your base class constructor.\",\"created_time\":\"2014-09-13T00:23:11+10:00\",\"total_likes\":2,\"total_comments\":0}",
+    "{\"id\":\"172338516139198_813425815363795\",\"from\":{\"name\":\"Yasser Makram\",\"id\":\"10154130456916548\"},\"message\":\"أساسيات git في عشر دقائق\\nمقدمة سريعة لتنصيب وإعداد git على ويندوز\\nاستخدام github و visualstudio online\\nتغطية لأوامر git الأساسية\\n git init\\n git add\\n git commit\\n git branching (checkout)\\n git merge\\n git clone\\n git push\\n git pull\\n git remote\\n git history (log)\\n git help\",\"caption\":\"youtube.com\",\"description\":\"مقدمة سريعة لتنصيب وإعداد git على ويندوز استخدام github و visualstudio online تغطية لأوامر git الأساسية git init git add git commit git branching (checkout) ...\",\"created_time\":\"2014-09-12T23:02:17+10:00\",\"total_likes\":18,\"total_comments\":9}",
+    "{\"id\":\"172338516139198_813638405342536\",\"from\":{\"name\":\"Sherif Omar\",\"id\":\"10158356909500092\"},\"message\":\"Is Tor blocked in Egypt?\",\"caption\":null,\"description\":null,\"created_time\":\"2014-09-13T08:49:52+10:00\",\"total_likes\":0,\"total_comments\":8}",
+    "{\"id\":\"172338516139198_813977035308673\",\"from\":{\"name\":\"Ahmed Adel\",\"id\":\"10155949666619129\"},\"message\":\"#Transparency\",\"caption\":\"washingtonpost.com\",\"description\":\"Unsealed documents detail firm’s unsuccessful bid to keep personal information away from feds\",\"created_time\":\"2014-09-14T05:02:50+10:00\",\"total_likes\":0,\"total_comments\":0}",
+    "{\"id\":\"172338516139198_813996105306766\",\"from\":{\"name\":\"Sherif Omar\",\"id\":\"10158356909500092\"},\"message\":\"Any SEO gurus on the group ? By guru I mean : someone who can put you on page 1 of google in 6 months, in a reasonably competitive sector\",\"caption\":null,\"description\":null,\"created_time\":\"2014-09-14T06:02:33+10:00\",\"total_likes\":1,\"total_comments\":0}",
+    "{\"id\":\"172338516139198_814116725294704\",\"from\":{\"name\":\"Hesham Mohamed Eladawy\",\"id\":\"10154309434427452\"},\"message\":null,\"caption\":\"youtube.com\",\"description\":\"في هذا الفيديو يتناول م.مصطفى باختصار الفروق بين البنية الهيكلية لموردي خدمات السحابة جوجل، ومايكروسوفت، وامازون.\",\"created_time\":\"2014-09-14T13:33:37+10:00\",\"total_likes\":0,\"total_comments\":0}",
+    "{\"id\":\"172338516139198_814205078619202\",\"from\":{\"name\":\"Mohammad Tayseer\",\"id\":\"10154965677956341\"},\"message\":\"So if you want to build audio recognition service like shazam, you can start from here\",\"caption\":\"github.com\",\"description\":\"dejavu - Audio fingerprinting and recognition in Python\",\"created_time\":\"2014-09-14T19:54:44+10:00\",\"total_likes\":9,\"total_comments\":0}",
+    "{\"id\":\"172338516139198_814480661924977\",\"from\":{\"name\":\"Mohamed Tarek El Haddad\",\"id\":\"10158142026600408\"},\"message\":\"أول مرة أعرف أن دي موجودة في git:\\nhttp://git-scm.com/book/en/Git-Tools-Submodules\\n\\nلقد انشكحت.\",\"caption\":null,\"description\":null,\"created_time\":\"2014-09-15T04:49:04+10:00\",\"total_likes\":2,\"total_comments\":2}",
+    "{\"id\":\"172338516139198_814570828582627\",\"from\":{\"name\":\"Ahmed ElSawaf\",\"id\":\"10155121656384084\"},\"message\":null,\"caption\":\"prediction.io\",\"description\":\"PredictionIO Open Source Machine Learning Server\",\"created_time\":\"2014-09-15T09:31:43+10:00\",\"total_likes\":4,\"total_comments\":0}"
+  ]
+}

@@ -1,1 +1,143 @@
-{"posts":[{"id":"172338516139198_739892666050444","from":{"id":"100004951184058","name":"MohAmed HAmada"},"message":"السلام عليكم ياااريت يا جماعه الناس اللي بتفهم ف asp و برمجه ويب \nده كورس MCPD اناا هنزله \nياريت الناس تحمله ده حجمه صغير حداا و تقولي رايهاا ف المحتويات و لو ف حاجه ناقصه\nhttp://www.iteshare.net/Membership/Mits/2014/mcsd2012.pdf","caption":"www.iteshare.net","description":null,"created_time":"2014-05-02T03:20:51+03:00","total_likes":0,"total_comments":1},{"id":"172338516139198_740274779345566","from":{"id":"770091061","name":"Tarik Ibrahim"},"message":null,"caption":"Attachment UnavailableThis attachment may have been removed or the person who shared it may not have permission to share it with you.","description":null,"created_time":"2014-05-02T23:49:07+03:00","total_likes":0,"total_comments":0},{"id":"172338516139198_740275859345458","from":{"id":"1219778072","name":"Mohammed Zerox"},"message":"eventtus reimagined https://dribbble.com/shots/1535852-eventtus-reimagined","caption":"dribbble.com","description":"eventtus reimagined campaign page link","created_time":"2014-05-02T23:51:53+03:00","total_likes":0,"total_comments":0},{"id":"172338516139198_739899116049799","from":{"id":"548509156","name":"Ahmed Gaber"},"message":"السلام عليكم\nفي موضوع كده انتشر اليومين دول بتاع بوستات ازاي تشوف كاميرا صاحبك و ازي تعمل معرفش ايه منين علي الفيس, الموضوع مزعج الصراحه\nالنهارده قلت اقلب كده في الكود اللي بيتنسخ ده وطلعت بشويه حاجات انا شايفها كارثيه في السيكيورتي بتاعه الفيسبوك قلت اشيرها معاكم و محتاج رأي جيكس الفيسبوك اللي معانا\nاولا الكود بيشتغل علي مرحلتين, الكود اللي بيتنسخ ده يعتبر ثابت بتغيرات بسيطه لكن في اساسه ثابت\nاول ملحوظه يمكن شدت انتباهي ان الكود مكتوب بالتركي, نسبه كبيرة اللي كتب الكود تركي او بيعرف تركي و حابب يشفر الكود يمكن الله اعلم, الامر ده غريب لاني عايش في تركيا و اللي شايفه ان الاتراك ابعد ما يمكن عن البرمجه او الهاك علي العموم دي ملحوظه جانبيه حبيت اسجلها مش اكتر\nالملحوظه التانيه و يمكن دي اللي انا مش فاهمها الصراحه ان الكود بيطلب بيرمشن و بيشتغل علي ابليكشن فيسبوك رقمه 121876164619130 \nهو ده الابليكشن اللي السكربت بياخد منه الاكسس توكن علشان يعمل اي اكشن سواء فولو او بوست او لايك لصفحه, لو جيت تشوف ايه الابليكشن ده هتلاقيه ابليكشن البيج مانجر من الاندرويد, ممكن تلاقي تفاصيل اكتر من هنا Graph Explorer\nدي بقي الصدمه, الابليكشن ده ناس كتير جدا بيستخدموه, ده معناه انك لوعامل له اكسبت و ده احتمال كبير, السكربت بتاع الهاكر هايدخل ياخد اكسس توكن و يعمل اللي هو عايزة, و اللي شفته ان الاكسس توكن بتتخزن علي الاوفلاين ستورج ده معناه ان هو بالاكسس توكن ممكن يشتغل بعدين , انا مش فاهم الحته دي اوي انا بتكلم من معلومات سطحيه جدا و قراءة عابرة للاسكبرت\n\nالسكربت بعد ما بيعمل الاكسس توكن بيبعتها لصفحه ويب الهاكر بيبقي عاملها و بيبقي كاتب فيها الكود الحقيق بتاع الفولو او ايا كان النشاط اللي هو عايز يعملها\nامثله للصفحات الخارجيه دي \nhttp://www.weebly.com/weebly/apps/readDraft.php?draftId=839295953963304781&userId=27236607\n\nhttp://bqzet01.blogspot.com\n\nملحوظه : الصفحه لو فتحتها دلوقتي مش هاتعمل حاجه لانها مش ماسكه توكن, ممكن تشوف الحاجات اللي بتتعمل لو بصيت في السورس بتاع البيدج\n\nده تحليل سريع جدا من بصتي علي الكود و دلوقتي بقي \nالسكربت ده بيستغل جشع, او سذاجه الضحيه في انه يوقعه في الغلطه,\nفس ناس بتشتكي انه بيعمل ديسلايك لصفحه و يلاقي نفسه لايك تاني, او يعمل انفولو و يلاقي الفولو رجه, انا اعتقد ان المشكله سكربت من النوع ده, خاصه ان الابليكشن بيبقي واخد بيرمشن publish_stream يعني الستريم بتاعه الضحيه معاه يعمل اللي هو عايزة من غير حتي اكشن من اليوزر\n\nالموضوع مزعج الي ابعد حد لانه بيشتغل علي ابليكشن حتي انا عامل له اكسبت, \n\nايه بقي\nMohamed A. Baset","caption":null,"description":null,"created_time":"2014-05-02T03:45:54+03:00","total_likes":7,"total_comments":10},{"id":"172338516139198_740428085996902","from":{"id":"652024918","name":"Amr Eldib"},"message":"Very clever. Get a report card on your GitHub activities\nhttp://osrc.dfm.io/","caption":"Attachment UnavailableThis attachment may have been removed or the person who shared it may not have permission to share it with you.","description":null,"created_time":"2014-05-03T08:07:10+03:00","total_likes":3,"total_comments":1},{"id":"172338516139198_740123902693987","from":{"id":"627907956","name":"Emad Elsaid"},"message":"حفلة الكود :)\nاوكى عدنا اليكم من جديد ببوستر جديد ^_^ \nمسألة الحفلة من بروجيكت اويلر و هى : \nhttp://projecteuler.net/problem=12\nالمسألة دى لطيفة و سهلة ، بيتكلم عن سلسلة اعداد اسمها triangular numbers كل عدد فيها بيبقى مجموع الأعداد الطبيعية اللى قبله يعنى العدد ال٣ فى السلسة هو ١+٢+٣ و العدد السابع هو ١+٢+٣+٤+٥+٦+٧ وهكذا \nبيقول ان كل عدد بيبقى ليه مجموعة اعداد ممكن يتقسم عليها، عاوز اول عدد فى السلسلة ممكن يتقسم على \"اكتر\" من ٥٠٠ عدد.\nخلونا نشوف tricks جديدة فى للغات اللى هاتستخدموها، be creative and have fun coding \nHint: فى نظرية الأعداد فى نظرية بتدرس عدد الdivisors بتاعة عدد معين و متسمية على اسم اويلر ;)","caption":null,"description":null,"created_time":"2014-05-02T17:04:46+03:00","total_likes":5,"total_comments":18},{"id":"172338516139198_695785460461165","from":{"id":"100004658621932","name":"Mohamed Fotouh Shalan"},"message":"لو انت مش عارف تروح مكان معين و عاوز تعرف توصله ازاى و ايه هى المواصلات اللى ممكن تركبها و تكلفة المواصلات اللى انت هتركبها كام و الوقت اللى انت هتخده فى الطريق \n\nاحنا عاوزين نجمع اراء ان البرنامج ده المستخدمين محتاجينه ولا لاء .. فممكن تساعدنا علشان نعرف \n\nادخل و جاوب على الأسئلة الموجوده \n\nhttps://docs.google.com/forms/d/1puKM7d6HRRLgBMVhAohBDCcqVOhhNNBH0qCmTowhz7o/viewform","caption":"docs.google.com","description":"عبارة عن برنامج للسمارت فون هيقدر يساعدك علشان توصل لأى مكان فى مصر .. عن طريق انه هيعرفك ايه انواع المواصلات اللى ممكن تركبها (هيقدملك اكثر من حل ) و هيعرفك التكلفه من المكان اللى انت فيه للمكان اللى انت عاوز توصله و كمان هيعرفك الوقت اللى انت هتاخده فى الطريق و كمان هيعرفك على الخدمات المتاحه فى ط...","created_time":"2014-02-04T00:22:51+03:00","total_likes":0,"total_comments":25},{"id":"172338516139198_740822952624082","from":{"id":"704237103","name":"ElMohanned Ahmed"},"message":"It seems that Waterfall is finally and officially dead!! The DOD (traditionally largest backer and funder of CMMi) now is required to use agile practices in software projects..\n\nDOD issued the New Approach report that requires DOD to use agile practices in its acquisition of IT systems:\nhttp://www.afei.org/WorkingGroups/section804tf/Documents/OSD_Sec_804_Report.pdf\nThe SEI has issued a report analyzing DOD’s report:\nhttp://www.sei.cmu.edu/reports/11sr015.pdf\n\nThe report recommends among other things:\n• A multi-level planning approach and a time boxed delivery manner. \n• New approaches should embrace the value of “80 percent solutions” (as appropriate).\n• Tangible evidence of relevant development capabilities in the form of prototypes or deployed systems (“working software”) will have preference in an evaluation with a commensurate decrease in paper-based proposal components.\n• Embrace the concept that incremental and iterative development and testing, including the use of prototyping, yield better outcomes than trying to deploy large, complex IT network systems in one big bang.\n• Requirements management process will be adjusted to reflect time boxed development constraints and allow for uncertainty. \n• Prioritization and further definition of requirements will be an ongoing activity.\n• Development efforts will focus on what can be achieved in the short term.\n• Development will involve continual test and evaluation with user involvement.\n• Test and evaluation will be structured to support iterative and incremental delivery. \n• Testing approaches will make extensive use of prototyping and automated testing.","caption":"scrum.jeffsutherland.com","description":"SCRUM LOG JEFF SUTHERLAND - Jeff created the first Scrum team in 1993 and worked with Ken Schwaber to formalize Scrum at OOPSLA'95. Together, they extended and enhanced Scrum at many software companies, helped write the Agile Manifesto in 2001, and authored the Scrum Guide.","created_time":"2014-05-04T01:13:06+03:00","total_likes":0,"total_comments":0},{"id":"172338516139198_740827152623662","from":{"id":"1246823411","name":"Abdelrady Fcis"},"message":"Jquery selectors performance test.","caption":"www.dotnetcurry.com","description":"Performance Test your jQuery Selectors using the jsPerf online tool.","created_time":"2014-05-04T01:27:51+03:00","total_likes":3,"total_comments":6},{"id":"172338516139198_739811616058549","from":{"id":"100002045429029","name":"مُحَمَّد أبو آدم"},"message":"the UK government just spent 5.5m GBP on getting extended support for XP :S","caption":"Attachment UnavailableThis attachment may have been removed or the person who shared it may not have permission to share it with you.","description":null,"created_time":"2014-05-02T00:16:56+03:00","total_likes":0,"total_comments":5}]}
+{
+  "posts": [
+    {
+      "id": "172338516139198_1009849785721396",
+      "from": {
+        "name": "Abdelrhman Ibrahim",
+        "id": "1433313313345437"
+      },
+      "message": "ده Introduction Cross Platform Mobile app Development بستخدم فيه ال Apache Cordova و Visual Studio طبعا فيه طرق كتير لكن دى الاكتر شهره واللى ال community بتاعها اكبر عشان لو واجهتك مشكله وعايز تحلها \nالintro دى بتشرح ازاى تقدر تعمل app بتستخدم فيه ال Camera \nبال HTML+CSS+Javascript بس\nوينفع تشغله على كل ال platforms :ios,android,window phone\nمن غير ما تكتب native code سواء بال Java او objective-C او C# \n#علموهم_يتعلموا ^_^\nEnjoy",
+      "caption": "youtube.com",
+      "description": "cross platform mobile app development introduction Visual studio download:https://www.visualstudio.com/downloads/download-visual-studio-vs Cordova camera plu...",
+      "created_time": "2015-09-22T00:11:13+10:00",
+      "total_likes": 7,
+      "total_comments": 2
+    },
+    {
+      "id": "172338516139198_1009231579116550",
+      "from": {
+        "name": "Sameh Magharious",
+        "id": "10154141190610448"
+      },
+      "message": "Yesterday, a teammate celebrated his 65th birthday as an SDE (still coding). Some consider it a positive sign that the environment allows anyone to code as long as s/he wants. Others consider it a sign of a poorly progressed career. What you think?",
+      "caption": null,
+      "description": null,
+      "created_time": "2015-09-20T15:01:29+10:00",
+      "total_likes": 5,
+      "total_comments": 3
+    },
+    {
+      "id": "172338516139198_1009883602384681",
+      "from": {
+        "name": "Ahmed Kamal",
+        "id": "10203100096301505"
+      },
+      "message": "http://blog.codinghorror.com/i-shall-call-it-somethingmanager/",
+      "caption": "blog.codinghorror.com",
+      "description": "29 Mar 2006 I Shall Call It.. SomethingManager Alan Green rails against the meaninglessness of SomethingManager: How many classes do you come across named SomethingManager? Any decent sized commercial system seems to have plenty – SessionManager, ConnectionManager, PolicyManager, QueueManager, UrlMa…",
+      "created_time": "2015-09-22T02:02:49+10:00",
+      "total_likes": 3,
+      "total_comments": 0
+    },
+    {
+      "id": "172338516139198_1009933429046365",
+      "from": {
+        "name": "Abd-Allah Al-Mansour",
+        "id": "10154834995540813"
+      },
+      "message": "1945 منحة للمصريين",
+      "caption": null,
+      "description": "لكل المهتمين من اي دولة الفرصة دي ممكن تكون منحة دراسية او فرصة تدريب فى الخارج سواء كنت طالب او متخرج وفي مجاﻻت مختلفة.. و ممكن تكون فرصة لحضور مؤتمر او مسابقة خاصة بمجال شغلك او اهتمامك ^_^ .\nفي الموقع انت بتختار اسم دولتك وهو بيجيبلك المنح المناسبة ليك\n\nخلينا نتكلم شوية علي المصريين.\n\nعلشان انت مصري ^_^ ف حضرتك قدامك ( 1945 فرصة ) .. \nال 1945 فرصة دول يا صديقي تقريباً مغطيين كل دول العالم بمعني الكلمة .. و منهم ( 1110 فرصة Fully Funded ) بمعني انك مش هتدفع و لا مليم #ملكش_حجة سواء مصاريف الدراسة .. او تذاكر الطيران و لا الأقامة .. لآخرة :) و بنسبة 90% بيبقي فى مرتب كمان\n\nو ( 338 فرصة Partially Funded ) و دي فرص هتحتاج فيها انك تدفع و ليكن تمن تذاكر الطيران او مصاريف الاقامة و هم يتحملوا الباقي.\nلو انت سعودي معاك 1839 فرصة.\nلو كويتي معاك 1832 فرصة.\nلو امارتي معاك 1835 فرصة\nلو ليبي معاك 1913 فرصة\nلو سوداني معاك 1903 فرصة\n\nالفرصة دي كلها متاحة على موقع اسمة : HeySuccess\nhttp://www.heysuccess.com\n\nدلوقتي نيجي لنقطة ازاى تستخدم الموقع صح و تلاقي الفرصة الانسب :\nhttp://mshmshvalley.com/hey-success/\n\nالمصدر: http://mshmshvalley.com\n\nلو حابب نساعدك ابعتلنا اسم دولتك في كومنت واحنا نبعتلك رابط المنح اللي ممكن تتقدم لها.\n\n#منح\n#سافر\n#الجذور_لتكنولوجيا_المعلومات\n#ITRoots",
+      "created_time": "2015-09-22T03:57:21+10:00",
+      "total_likes": 0,
+      "total_comments": 0
+    },
+    {
+      "id": "172338516139198_1010002339039474",
+      "from": {
+        "name": "Muhammad Bassem",
+        "id": "10209993936899469"
+      },
+      "message": "Don't play the game if you have something important opened in any of your browser's tabs :D\n\n",
+      "caption": "github.com",
+      "description": "3030 game: Don't touch the trees! (Thanks, Chrome dev team!)",
+      "created_time": "2015-09-22T07:19:42+10:00",
+      "total_likes": 3,
+      "total_comments": 1
+    },
+    {
+      "id": "172338516139198_1009308952442146",
+      "from": {
+        "name": "Safwat Ali",
+        "id": "10209047044593114"
+      },
+      "message": "I'm going to buy a new hard drive for my laptop.  I'm thinking I have to buy the SSD. any advice?  W agebo mnen?",
+      "caption": null,
+      "description": null,
+      "created_time": "2015-09-20T19:57:06+10:00",
+      "total_likes": 1,
+      "total_comments": 7
+    },
+    {
+      "id": "172338516139198_1009877155718659",
+      "from": {
+        "name": "Anas Ben Baligh",
+        "id": "10154910282886578"
+      },
+      "message": ":)",
+      "caption": "java9.xyz",
+      "description": "Countdown to Java 9! Find out how many days are left until project Jigsaw, JShell, and all the other new features are generally available",
+      "created_time": "2015-09-22T01:39:00+10:00",
+      "total_likes": 2,
+      "total_comments": 0
+    },
+    {
+      "id": "172338516139198_1010261349013573",
+      "from": {
+        "name": "Eslam Foad",
+        "id": "10158456830715445"
+      },
+      "message": "Does any one know an English test that can be purchased to test basic reading and listening skills for candidates (software developers), just to make sure that the candidate will be able to read online tutorials, watch training videos, ... etc.",
+      "caption": null,
+      "description": null,
+      "created_time": "2015-09-22T21:48:23+10:00",
+      "total_likes": 0,
+      "total_comments": 0
+    },
+    {
+      "id": "172338516139198_1010288979010810",
+      "from": {
+        "name": "Ahmad Alfy",
+        "id": "10154097389365670"
+      },
+      "message": "Someone at /r/4chan on reddit spotted a malicious behaviour from imgur. Interesting details on this thread! \nRumours are spreading that this could be the end of the catholic marriage between  reddit and imgur.",
+      "caption": "reddit.com",
+      "description": "Here is the thread where it was first discovered...",
+      "created_time": "2015-09-22T23:07:35+10:00",
+      "total_likes": 10,
+      "total_comments": 1
+    },
+    {
+      "id": "172338516139198_1010294359010272",
+      "from": {
+        "name": "Omar Sameh Shehata",
+        "id": "10154581153441219"
+      },
+      "message": "Has anyone heard anything about or used GNU Health?\n\nhttp://health.gnu.org/\n\nI was working on simple web app that I was planning to open-source for managing medical records for small clinics and such (because a lot of people are still using paper records which is terribly inconvenient for everyone)\n\nThen I stumbled on this, which seems to be an open source medical record and management software. Haven't tried it, curious if anyone has any thoughts!",
+      "caption": "health.gnu.org",
+      "description": "Its modular design allows to be deployed in many different scenarios: from small private offices, to large, national public health systems. It covers the functionality of Electronic Medical Record (EMR), Hospital Management, and Health Information System (HIS).",
+      "created_time": "2015-09-22T23:24:01+10:00",
+      "total_likes": 6,
+      "total_comments": 0
+    },
+    "{\"id\":\"172338516139198_988873107819064\",\"from\":{\"name\":\"Ahmed Aboulenein\",\"id\":\"10158457549660438\"},\"message\":\"GAE (Google App Engine) reviews (including mine), could be useful for someone who is starting up a new challenge.\\n\",\"caption\":\"g2crowd.com\",\"description\":\"Read 47 Google App Engine reviews. See pros/cons, pricing, integrations and feature ratings. Compare Google App Engine with other Platform as a Service (PaaS) products.\",\"created_time\":\"2015-08-12T21:47:54+10:00\",\"total_likes\":0,\"total_comments\":0}",
+    "{\"id\":\"172338516139198_988959587810416\",\"from\":{\"name\":\"Ahmed Attalla\",\"id\":\"1263464437036886\"},\"message\":null,\"caption\":\"github.com\",\"description\":\"The new GitHub Desktop is now available. It's a fast, easy way to contribute to projects from OS X and Windows. Whether you're new to GitHub or a seasoned user, GitHub Desktop is designed to simpli...\",\"created_time\":\"2015-08-13T02:01:55+10:00\",\"total_likes\":4,\"total_comments\":0}",
+    "{\"id\":\"172338516139198_989058041133904\",\"from\":{\"name\":\"Osama Ahmed Attia\",\"id\":\"10155136362742661\"},\"message\":\"Good tool to generate domain names for your business\",\"caption\":\"shopify.com\",\"description\":\"Generate business name ideas and instantly check domain name availability. Shopify’s business name generator will do the work of finding the perfect brand name for your business.\",\"created_time\":\"2015-08-13T06:17:25+10:00\",\"total_likes\":1,\"total_comments\":0}",
+    "{\"id\":\"172338516139198_987095771330131\",\"from\":{\"name\":\"Ahmad Alfy\",\"id\":\"10154097389365670\"},\"message\":\"99 little bugs in the code\\n99 little bugs in the code\\nTake one down, patch it around\\n117 little bugs in the code\\nsigh\",\"caption\":null,\"description\":null,\"created_time\":\"2015-08-09T13:10:39+10:00\",\"total_likes\":25,\"total_comments\":4}",
+    "{\"id\":\"172338516139198_989075464465495\",\"from\":{\"name\":\"Amr Ragaey\",\"id\":\"10155099815523748\"},\"message\":\"How can a website reach this level in google search, I mean the site directories and search bar shown under ebay.com home link\",\"caption\":null,\"description\":null,\"created_time\":\"2015-08-13T06:57:48+10:00\",\"total_likes\":0,\"total_comments\":4}",
+    "{\"id\":\"172338516139198_989215434451498\",\"from\":{\"name\":\"Anas Rabei\",\"id\":\"621823724675667\"},\"message\":\"Tomorrow lib: Magic decorator syntax for asynchronous code in Python\",\"caption\":\"github.com\",\"description\":\"Tomorrow - Magic decorator syntax for asynchronous code in Python\",\"created_time\":\"2015-08-13T15:20:37+10:00\",\"total_likes\":0,\"total_comments\":3}",
+    "{\"id\":\"172338516139198_989385091101199\",\"from\":{\"name\":\"Omar Hossam Ahmed\",\"id\":\"10155038148636730\"},\"message\":\"Is dropobx going to become unsecure after the child porn filter thing?\",\"caption\":null,\"description\":null,\"created_time\":\"2015-08-14T00:33:02+10:00\",\"total_likes\":0,\"total_comments\":6}",
+    "{\"id\":\"172338516139198_989470594425982\",\"from\":{\"name\":\"Mohammad Tayseer\",\"id\":\"10154965677956341\"},\"message\":\"I'm not going to talk about Alphabet, or Sundar Pichai. There are already enough people talking about these.\\n\\nGoogle acquired Makani in 2013. Makani is working on a new kind of wind turbines which generate more energy, using energy kites. See the links for explanation & video.\\n\\nBTW, they are hiring\",\"caption\":\"google.com\",\"description\":\"Makani is working to make clean energy accessible for everyone. We’re developing energy kites, a new type of wind turbine that can access stronger and steadier winds at higher altitudes to generate more energy with less materials.\",\"created_time\":\"2015-08-14T04:47:27+10:00\",\"total_likes\":12,\"total_comments\":0}",
+    "{\"id\":\"172338516139198_988903224482719\",\"from\":{\"name\":\"Ibrahim Zaki\",\"id\":\"10155874856752738\"},\"message\":\"Hello Geeks,\\nI faced a statistical/probability term in data science field which i cant find its  mean, the term is \\\"log bilinear\\\".\\ni know what is exactly meant by log linear which described nicely here https://en.wikipedia.org/wiki/Log-linear_model\\nand here https://en.wikipedia.org/wiki/Log-linear_analysis\\nalso i found a question here with no  real answer   http://www.quora.com/What-is-a-log-bilinear-model\\nand also this http://stats.stackexchange.com/questions/157136/log-linear-vs-log-bilinear\\n\\n Geeks help make it clear to me ...thanks in advance\",\"caption\":\"en.wikipedia.org\",\"description\":\"A log-linear model is a mathematical model that takes the form of a function whose logarithm is a linear combination of the parameters of the model, which makes it possible to apply (possibly multivariate) linear regression. That is, it has the general form\",\"created_time\":\"2015-08-12T23:06:50+10:00\",\"total_likes\":0,\"total_comments\":2}"
+  ]
+}
